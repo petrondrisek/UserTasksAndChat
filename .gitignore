@@ -1,0 +1,12 @@
+﻿################################################################################
+# Tento soubor .gitignore byl automaticky vytvořen aplikací Microsoft(R) Visual Studio.
+################################################################################
+
+/.env
+/.*
+/bin
+/obj
+/Properties
+
+
+!/.env.example
